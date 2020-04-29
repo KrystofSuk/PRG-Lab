@@ -1,5 +1,7 @@
 # Cykly, Console
 
+![Cycle img](https://gifimage.net/wp-content/uploads/2017/10/dog-chasing-tail-gif.gif)
+
 ## Postfix Prefix
 
 V C# mame zajimave operatory ++ a -- ktere umoznuji zvysit ci snizit hodnotu o 1. Ty jdou ale aplikovat dvema zpusoby.
