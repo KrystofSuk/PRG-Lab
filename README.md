@@ -11,6 +11,7 @@ Maly c# lab pro doucovani, velmi strucnych zakladu c# a programovani jako celku.
 
 - [Lab1 - What is c#, promenne a podminky](./Lab1/README.md)
 - [Lab2 - Cykly, console](./Lab2/README.md)
+- [Lab3 - Opakovani](./Lab3/README.md)
 
 ## IDE
 
